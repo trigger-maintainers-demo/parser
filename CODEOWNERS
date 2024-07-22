@@ -10,5 +10,5 @@
 # All .md files
 *.md @asyncapi-bot-eve @derberg
 
-markdown/blog/*.md @mayaleeeee
+markdown/blog/*.md @mayaleeeee @mszostok
 markdown/community/*.md @mayaleeeee
