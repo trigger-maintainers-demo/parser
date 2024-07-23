@@ -8,7 +8,7 @@
 * @derberg @akshatnema @magicmatatjahu @anshgoyalevil @mayaleeeee @asyncapi-bot-eve
 
 # All .md files
-*.md @asyncapi-bot-eve @derberg @mszostok
+*.md @asyncapi-bot-eve @derberg
 
 markdown/blog/*.md @mayaleeeee
 markdown/community/*.md @mayaleeeee
